@@ -167,5 +167,10 @@ You are all done\! After about a minute, your entire stack should be up and runn
   * **Test the integration** by creating a chatflow in Flowise that uses a Chroma vector store node. ✅
 
 -----
+### 6\. Credits
+
+Generated with Gemini's help and with much troubleshooting by author.
+
+-----
 
 Last Updated: 30 July 2025

@@ -140,5 +140,9 @@ Finally, you'll create the necessary configuration files and launch your n8n ins
 
 Your n8n instance should now be accessible at `https://n8n.your-n8n-instance.duckdns.org`. You can now set up your owner account and start building workflows\!
 -----
+### 6\. Credits
 
+[Inspired by this post by Ai Agency+](https://aiagencyplus.com/self-host-n8n-free-google-cloud-docker-compose/) with Gemini's help.
+
+-----
 Last Updated: 30 July 2025
