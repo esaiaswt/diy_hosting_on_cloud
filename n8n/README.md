@@ -1,4 +1,4 @@
-# Hosting n8n on Google Cloud for Free
+# Hosting n8n on Google Cloud 
 ### 1\. Set Up Your GCP VM ☁️
 
 First, you'll need to create a new virtual machine instance on GCP. The **e2-micro** instance is a good choice as it falls within the free tier.
